@@ -1,7 +1,7 @@
 # Web Development Learning Journey 🚀
 
 # 👋 Welcome!
-# This repository serves as a personal log and showcase of my journey into the exciting world of web development. Here, I'll be documenting my progress, storing projects, and sharing the resources I find helpful along the way.
+This repository serves as a personal log and showcase of my journey into the exciting world of web development. Here, I'll be documenting my progress, storing projects, and sharing the resources I find helpful along the way.
 
 # 🎯 About This Repository
 The main goal of this repository is to:
