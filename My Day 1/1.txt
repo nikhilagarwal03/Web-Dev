@@ -1,0 +1,19 @@
+Today Was the First Day In The Journey Of Web DEV.
+I am Following the Sigma Web Development Course By CodeWithHarry
+
+Brushed Up the Concepts Of Html.
+Mainly Learnt About These Concepts: 
+- Boiler Plate of Html (!) 
+- Headings , Paragraphs 
+- linking CSS AND JS FILES
+- Html Tags of Image , Lists , Tables
+- SEO and Core Web Vitals
+- Forms and Input Tags
+- Inline & Block Elements
+- ID's and CLasses
+- Video , Audio and Media in Html
+- Semantic and Non-Semantic Tags
+
+Excercise - Pure Html Media Player. --- completed (mediaplayer.html)
+Challenge - Making A Well Structured BookMark Manager.
+
