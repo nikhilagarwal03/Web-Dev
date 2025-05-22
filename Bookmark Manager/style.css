@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgba(93, 29, 1, 0.747);
+}
+.heading{
+    margin: 5px;
+    padding: 15px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-decoration: underline;
+    background-color: rgb(87, 87, 223);
+    border: 2px solid;
+    font-weight: bolder;
+}
+.Primary{
+    color: white;
+    margin: 10px;
+    padding: 0 25px 25px 25px;
+    text-align: justify;
+    background-color: rgb(31, 10, 0);
+    border-radius: 10px;
+    width: 300px;
+    height: max-content;
+    border: 2px solid;
+}
+h2{
+    margin: 5px; 
+    padding: 15px; 
+}
+div{
+    display: grid;
+    align-self: center;
+}
+a{
+    color: rgb(61, 212, 15);
+}
+a:hover{
+    color: white;
+}
+a:visited{
+    color: chocolate;
+}
