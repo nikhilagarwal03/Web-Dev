@@ -1,5 +1,6 @@
 Today Was the First Day In The Journey Of Web DEV.
 
+
 Brushed Up the Concepts Of Html.
 Mainly Learnt About These Concepts: 
 - Boiler Plate of Html (!) 
@@ -12,6 +13,7 @@ Mainly Learnt About These Concepts:
 - ID's and CLasses
 - Video , Audio and Media in Html
 - Semantic and Non-Semantic Tags
+
 
 Exercise - Pure Html Media Player. --- completed (mediaplayer.html)
 Challenge - Making A Well Structured BookMark Manager.
