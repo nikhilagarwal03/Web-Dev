@@ -1,0 +1,45 @@
+Today Was the Second Day In The Journey Of Web DEV.
+
+Concepts of CSS.
+
+Notes : 
+
+Types Of CSS - Inline , Internal , External 
+    --> Inline - Goes with the Html Tags (Not Recommended)
+    --> Internal - In HTML-Document CSS (Recommended for small Webpages)
+    --> External - ".CSS" file is linked to Html
+
+CSS Selectors:
+    To Style a Html tag in CSS we select the element
+    -- eg. for <div> element "div{}" in CSS.
+
+    To style Html element through Class we select ".class-name"
+    -- eg. for <div "class=container"> element ".container{}" in CSS.
+
+    To style Html element through ID we select "#ID-name"
+    -- eg. for <div "ID=container"> element "#container{}" in CSS.
+    ** Multiple Elements can have same class but every element has unique ID
+
+    To style Direct child Html element of an element we select "parent element > child element"
+    -- eg. for "<div><p></p><div>" element "div > p" in CSS.
+
+    To style descendent Html element of an element we select "parent element descendent element"
+    -- eg. for "<div><span><p></p></span><div>" element "div p" in CSS.
+
+    Pseudo Selector Use cases -- My Day 2\Pseudoselector.html
+
+CSS Box model - Margin , Padding , Borders.
+    Practiced Box Model -- My Day 2\cssboxmodel.html
+
+CSS Fonts, Text, Color Properties
+    Did a small Challenge --  My Day 2\csschallenge.html
+
+CSS cascade Algorithm -- about Specificity and priority of styling in CSS
+    1. Cascade: Many selector are used to style a single element and CSS solve this conflict by Cascade.
+    2. Cascade Algorithm : It determine which property of CSS will be applied in Element. The cascade algorithm has 4 distinct stages.
+    3. Position and order of appearance : If same selector, then last one will be used
+    4. Origin: authored CSS has priority
+    5. Important: When !important It has highest priority. 
+    6. Specificity: Selector with high specificity is applied to html element.
+    7. Order of Specificity: Inline Style > ID selector > Class or Attribute  selector > Element Selector > Universal Selector
+    8. Calculating Specificity: Value of Each Selector: Universal is 0, 1 for each element selector or pseudo-element, 10 for each class value (or pseudo-class or attribute selector), 100 for each ID value. Inline Style has 1000 specificity. Just add value to find specificity.
