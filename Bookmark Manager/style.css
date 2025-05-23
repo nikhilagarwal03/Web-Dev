@@ -28,6 +28,7 @@ body{
     height: max-content;
     border: 2px solid;
     font-family: cursive;
+    display: inline-block;
 }
 h2{
     margin: 5px; 

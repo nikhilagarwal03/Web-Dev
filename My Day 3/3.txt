@@ -1,0 +1,38 @@
+CSS Learnings Part - 2
+
+CSS Sizing Units - px, rem, em, vh, vw, % & more
+    px depends on resolution,
+    vh vw are device specific,
+    vmin and vmax depends on orientation,
+    em is multiplier on current value,
+    rem is a multiplier on current value in respective to the root element,
+    % depends on parent
+
+CSS Display Properties including Hidden and Visibility Property
+
+Box shadows and Text shadows
+
+Outline Property
+
+Styling Lists -- My Day 3\ListStyles.html
+
+Overflow Property Of CSS -- Box Overflow and text overflow
+
+Position CSS Properties -- My Day 3\PositionCSS.html
+    Relative - Apni orginal position se change hogi
+    Absolute - apne parent ke relative position change hogi
+    Fixed - page mein position fixed hojaygi
+    Sticky - page mein kahin bhi ho, scroll krne pr neeche nhi jaygi, stick hojaygi
+
+CSS Variables
+
+Media Queries -- for Styling on other Devices
+
+CSS Float and Clear Properties -- Not recommended but still good for knowledge
+
+CSS challenge -- designing a Card
+    My Day 3\csschallenge.html
+
+CSS challenge -- designinig a Layout
+    My Day 3\layout.html
+    My Day 3\layout.css
