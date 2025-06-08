@@ -1,0 +1,34 @@
+.ball{
+    height: 120px;
+    width: 120px;
+    background-color: aqua;
+    border-radius: 70px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+    animation: AnimateX 2s linear infinite, AnimateY 1s ease-out infinite alternate;
+    
+}
+.container{
+    position: relative;
+    background-color: brown;
+    height: 90vh;
+    width: 90vw;
+}
+@keyframes AnimateX {
+    from{
+        left: 0;
+    }
+    to{
+        left: 100%;
+    }
+}
+@keyframes AnimateY {
+    from{
+        bottom: 0;
+    }
+    to{
+        bottom: 100%;
+    }
+}

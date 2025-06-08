@@ -1,0 +1,23 @@
+.logo img{
+    width: 170px;
+    display: flex;
+    align-items: center;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.right ul{
+    display: flex;
+    gap: 40px;
+}
+.right ul li{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.right ul li span{
+    padding: 0 4px;
+}

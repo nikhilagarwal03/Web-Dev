@@ -1,0 +1,35 @@
+What have We Learnt : 
+    Types Of CSS - Inline , Internal , External.
+    CSS Selectors.
+    CSS Box model - Margin , Padding , Borders.
+    CSS Fonts, Text, Color Properties.
+    CSS cascade Algorithm -- about Specificity and priority of styling in CSS
+    My Day 2\2.txt
+
+    CSS Sizing Units - px, rem, em, vh, vw, % & more
+    CSS Display Properties including Hidden and Visibility Property
+    Box shadows and Text shadows
+    Outline Property
+    Styling Lists
+    Overflow Property Of CSS -- Box Overflow and text overflow
+    Position CSS Properties
+    CSS Variables
+    Media Queries -- for Styling on other Devices
+    My Day 3\3.txt
+
+    CSS FlexBox
+    CSS Grid
+    My Day 4\4.txt 
+
+    CSS Transforms
+    CSS Transitions
+    CSS Animations
+    CSS Filters
+    CSS Object-Fit and Object-Position Property
+
+    CSS Exercise: Navbar Using FlexBox
+
+    CSS Exercise: Design the Grid
+
+    CSS Exercise: Bounce Animation
+    
