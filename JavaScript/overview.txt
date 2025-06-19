@@ -1,0 +1,14 @@
+Introduction To "JAVASCRIPT"
+
+In Frontend Javascript Can Be written in two types:
+-- by adding script tag in html file
+-- by writing Javascript file and link it to html file
+
+Basic Introduction of Javascript
+-- JavaScript\JS 01
+
+Javascript Variables , Datatypes , Objects
+-- JavaScript\JS-02
+
+Javascript Conditional Statements
+-- JavaScript\JS-03
