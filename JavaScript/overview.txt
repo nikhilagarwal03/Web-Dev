@@ -12,3 +12,6 @@ Javascript Variables , Datatypes , Objects
 
 Javascript Conditional Statements
 -- JavaScript\JS-03
+
+JavaScript Loops
+-- JavaScript\JS-04
